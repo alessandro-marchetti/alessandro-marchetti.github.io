@@ -9,56 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+A full version of my CV can be found [here](https://docs.google.com/gview?url=https://alessandro-marchetti.github.io/files/cv.pdf&embedded=true).
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education
+* 2025: [MSc in Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl) (cum laude), Università di Torino, Italia
+  * Thesis title: _Computational Methods for Bayesian Poisson Regression_
+  * Advisors: [Augusto Fasano](https://sites.google.com/view/augustofasano/home) and [Francesca Romana Crucinio](https://francescacrucinio.github.io/)
+* 2023: [BSc in Economics](https://eco-l.ec.unipi.it/) (cum laude), Università di Pisa, Italia
+  * Thesis title: _Calendar Anomalies in the Cryptocurrencies Market_
+  * Advisor: [Angela Parenti](https://www.unipi.it/ateneo/organizzazione/persone/angela-parenti-90775/)
