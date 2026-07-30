@@ -37,3 +37,14 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Fix sidebar scrolling */
+.sidebar {
+  @media screen and (min-width: $sidebar-screen-min-width) {
+    top: $masthead-height;
+    bottom: 0;
+    height: auto;
+    overflow-y: auto;
+    padding-bottom: 3rem;
+  }
+}
