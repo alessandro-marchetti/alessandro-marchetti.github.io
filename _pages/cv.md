@@ -14,7 +14,7 @@ A full version of my CV can be found [here](https://docs.google.com/gview?url=ht
 ## Education
 * 2025: [MSc in Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl) (cum laude), Università di Torino, Italia
   * Thesis title: _Computational Methods for Bayesian Poisson Regression_
-  * Advisors: [Augusto Fasano](https://sites.google.com/view/augustofasano/home) and [Francesca Romana Crucinio](https://francescacrucinio.github.io/)
+  * Advisors: [Francesca Romana Crucinio](https://francescacrucinio.github.io/) and [Augusto Fasano](https://sites.google.com/view/augustofasano/home)
 * 2023: [BSc in Economics](https://eco-l.ec.unipi.it/) (cum laude), Università di Pisa, Italia
   * Thesis title: _Calendar Anomalies in the Cryptocurrencies Market_
   * Advisor: [Angela Parenti](https://www.unipi.it/ateneo/organizzazione/persone/angela-parenti-90775/)
